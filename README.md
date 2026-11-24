@@ -57,6 +57,6 @@ dotnet build .\PassordWeb.csproj -c Release
 - Ingen direkte Microsoft 365-integrasjon eller garanti for synkroniseringstid.
 - Kommuneprofilering tilpasses i lokal konfigurasjon; se [profilinnstillingene](docs/INSTALLASJON.md#kommuneprofilering).
 
-## Lisensstatus
+## Lisens
 
-Programvarelisens er ikke valgt.
+PassordWeb er lisensiert under [MIT-lisensen](LICENSE).
